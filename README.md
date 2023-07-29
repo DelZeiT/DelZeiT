@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<!--Table Info-->
+  <h1 style="color: rgb(212, 187, 133)">GitHub-Stats<h3/>
+  
+| ![Stats](https://github-readme-stats.vercel.app/api?username=DelZeiT&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelZeiT&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/DelZeiT?tab=repositories) |
+|---|---|
